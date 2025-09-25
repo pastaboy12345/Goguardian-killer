@@ -1,4 +1,4 @@
-# Goguardian-killer
+# Goguardian-killer (patched, boo hoo.)
 comepletely kills the goguardian extension using some bookmarklet magic!
 How to use: 
 favorite this page. click "More..." Edit the URL and paste in the javascript (which is TheActualBookmarklet.js). Add the bookmarklet.
